@@ -15,5 +15,7 @@ public class Survey {
         -Print the age of the eldest person
          */
 
+        String h = "I love";
+
     }
 }
